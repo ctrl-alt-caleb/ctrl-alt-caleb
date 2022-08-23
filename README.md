@@ -5,7 +5,7 @@
 </p>
 
 <div class='container'>
-<div class='child' align = 'center'><img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=ctrl-alt-caleb&show_icons=true&theme=blue-green" /></div>
-<div class='child' align = 'center'><img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-alt-caleb&theme=blue-green&langs_count=8&layout=compact" /></div>
+<div align = 'center'><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=ctrl-alt-caleb&show_icons=true&theme=blue-green" /></div>
+<div align = 'center'><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-alt-caleb&theme=blue-green&langs_count=8&layout=compact" /></div>
 </div>
 
