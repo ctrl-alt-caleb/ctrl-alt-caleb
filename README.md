@@ -3,7 +3,7 @@
 
 <div align ="center"><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=ctrl-alt-caleb&show_icons=true&theme=radical" /></div>
 
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-alt-caleb&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
+<div align = "center"><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-alt-caleb&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
 
 <p align="center"> 
   Visitor Count<br>
