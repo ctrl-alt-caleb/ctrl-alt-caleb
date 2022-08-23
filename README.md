@@ -1,5 +1,9 @@
-### Hi there 👋
+<p align="center">### Hi there 👋</p>
 
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/ctrl-alt-caleb/count.svg" />
+</p>
 
 <div align ="center"><img style="height: auto; width: 75%;" class="img" src="https://github-readme-stats.vercel.app/api?username=ctrl-alt-caleb&show_icons=true&theme=blue-green" /></div>
 
