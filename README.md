@@ -3,8 +3,8 @@
 
 
 
-![User GitHub Stats](https://github-readme-stats.vercel.app/api?username=ctrl-alt-caleb&show_icons=true&theme=radical)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-alt-caleb&theme=radical&layout=compact)
+![User GitHub Stats](https://github-readme-stats.vercel.app/api?username=ctrl-alt-caleb&show_icons=true&theme=radical) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-alt-caleb&theme=radical&layout=compact)
+
 
 
 <p align="center"> 
