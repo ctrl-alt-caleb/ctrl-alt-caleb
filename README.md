@@ -17,7 +17,7 @@
 <br>
 
 <div class='container'align='center'>
- <img class="img" src="https://leetcard.jacoblin.cool/c4leb"/>
+ <img class="img" src="https://leetcard.jacoblin.cool/c4leb&theme='dark'"/>
  </div>
  
  <div class='container'align='center'>
