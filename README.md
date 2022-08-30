@@ -1,7 +1,6 @@
 
 <p align="center"> 
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/ctrl-alt-caleb/count.svg" />
+ ![](https://komarev.com/ghpvc/?username=ctrl-alt-caleb&label=PROFILE+VIEWS)
 </p>
 
 <div class='container'align = 'center'>
