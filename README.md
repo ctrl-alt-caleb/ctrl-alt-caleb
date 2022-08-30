@@ -5,18 +5,13 @@
  <div class='container'align='left'>
  &nbsp;&nbsp;&nbsp;&nbsp;<img class="img" src="https://komarev.com/ghpvc/?username=ctrl-alt-caleb&label=Visitors&color=lightgrey"/>
  <a href="https://linkedin.com/in/calebhebert">
- &nbsp;&nbsp;&nbsp;&nbsp;<img class="img" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat"/>
+ &nbsp;&nbsp;<img class="img" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat"/>
       </a>
- </div><br<br>
+ </div>
             
 
-  
-
-
-
-
 <div class='container'align = 'center'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=ctrl-alt-caleb&show_icons=true&theme=dark"/>
+<br><img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=ctrl-alt-caleb&show_icons=true&theme=dark"/>
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-alt-caleb&theme=dark&langs_count=8&layout=compact" />
