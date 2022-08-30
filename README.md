@@ -1,7 +1,4 @@
 
-
- &nbsp;&nbsp;&nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=ctrl-alt-caleb&label=Visitors&color=lightgrey) 
- 
  <div class='container'align='left'>
  &nbsp;&nbsp;&nbsp;&nbsp;<img class="img" src="https://komarev.com/ghpvc/?username=ctrl-alt-caleb&label=Visitors&color=lightgrey"/>
  <a href="https://linkedin.com/in/calebhebert">
