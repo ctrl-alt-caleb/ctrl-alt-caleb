@@ -17,16 +17,9 @@
 <br>
 
 <div class='container'align='center'>
- <img class="img" src="https://leetcard.jacoblin.cool/c4leb&theme=dark"/>
+ <img class="img" src="https://leetcard.jacoblin.cool/c4leb/?ext=heatmap&theme=dark"/>
  </div>
  
- <div class='container'align='center'>
- <img class="img" src="https://leetcode.card.workers.dev/c4leb"/>
- </div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LeetCode Stats](https://leetcode.card.workers.dev/c4leb?theme=dark&font=baloo&cache=0&width="400")](https://leetcode.com/c4leb/)
-
-
 
 
 
