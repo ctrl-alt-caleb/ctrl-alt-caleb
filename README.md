@@ -9,16 +9,16 @@
 
 
 <div class='container'align = 'center'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=ctrl-alt-caleb&show_icons=true&theme=blue-green"/>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=ctrl-alt-caleb&show_icons=true&theme=dark"/>
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-alt-caleb&theme=blue-green&langs_count=8&layout=compact" />
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-alt-caleb&theme=dark&langs_count=8&layout=compact" />
 </div>
 <br>
 
 <div class='container'align='center'>
  <img class="img" src="https://leetcard.jacoblin.cool/c4leb/?ext=heatmap&theme=dark"/>
- </div>
+ </div><br>
  
 
 
