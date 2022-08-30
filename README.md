@@ -1,6 +1,6 @@
 
 
- &nbsp&nbsp&nbsp;![](https://komarev.com/ghpvc/?username=ctrl-alt-caleb&label=Visitors&color=lightgrey)
+ &nbsp;&nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=ctrl-alt-caleb&label=Visitors&color=lightgrey)
 
 
 <div class='container'align = 'center'>
@@ -11,4 +11,4 @@
 </div>
 <br>
 
-&nbsp;&nbsp;&nbsp;[![LeetCode Stats](https://leetcode.card.workers.dev/c4leb?theme=dark&font=baloo&extension=activity&cache=0&width="775"&height="200")](https://leetcode.com/c4leb/)
+&nbsp;&nbsp;&nbsp;[![LeetCode Stats](https://leetcode.card.workers.dev/c4leb?theme=dark&font=baloo&extension=activity&cache=0&width="775"&height="50")](https://leetcode.com/c4leb/)
