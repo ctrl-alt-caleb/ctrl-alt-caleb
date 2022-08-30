@@ -10,4 +10,4 @@
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-alt-caleb&theme=blue-green&langs_count=8&layout=compact" /></div>
 </div>
-[![LeetCode Stats](https://leetcode.card.workers.dev/dolanmiu?theme=auto&font=baloo&extension=activity)](https://leetcode.com/dolanmiu/)
+[![LeetCode Stats](https://leetcode.card.workers.dev/dolanmiu?theme=auto&font=baloo&extension=activity&cache=0)](https://leetcode.com/dolanmiu/)
