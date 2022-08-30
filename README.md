@@ -11,4 +11,4 @@
 </div>
 <br>
 
-&nbsp;&nbsp;&nbsp;[![LeetCode Stats](https://leetcode.card.workers.dev/c4leb?theme=dark&font=baloo&cache=0&width="385")](https://leetcode.com/c4leb/)
+&nbsp;&nbsp;&nbsp;[![LeetCode Stats](https://leetcode.card.workers.dev/c4leb?theme=dark&font=baloo&cache=0&width="400")](https://leetcode.com/c4leb/)
