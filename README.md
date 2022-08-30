@@ -11,4 +11,4 @@
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-alt-caleb&theme=blue-green&langs_count=8&layout=compact" /></div>
 </div>
 
-[![LeetCode Stats](https://leetcode.card.workers.dev/LeetCode?theme=auto&font=baloo&extension=activity&cache=0)](https://leetcode.com/c4leb/)
+[![LeetCode Stats](https://leetcode.card.workers.dev/c4leb?theme=auto&font=baloo&extension=activity&cache=0)](https://leetcode.com/c4leb/)
