@@ -21,3 +21,9 @@
 <br>
 
 &nbsp;&nbsp;&nbsp;[![LeetCode Stats](https://leetcode.card.workers.dev/c4leb?theme=dark&font=baloo&cache=0&width="400")](https://leetcode.com/c4leb/)
+
+
+<div class='countainer'align='center'>
+ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)
+ <div/>
+                              
