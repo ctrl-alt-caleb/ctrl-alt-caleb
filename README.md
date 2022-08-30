@@ -16,8 +16,6 @@
  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white&style=flat)
 
 
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&style=flat)
-
 
 <div class='container'align = 'center'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=ctrl-alt-caleb&show_icons=true&theme=blue-green"/>
