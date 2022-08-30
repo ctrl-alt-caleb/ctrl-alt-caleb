@@ -11,4 +11,4 @@
 </div>
 <br>
 
-&nbsp;&nbsp;&nbsp;[![LeetCode Stats](https://leetcode.card.workers.dev/c4leb?theme=dark&font=baloo&cache=0&width="400")](https://leetcode.com/c4leb/) <img https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white/>
+&nbsp;&nbsp;&nbsp;[![LeetCode Stats](https://leetcode.card.workers.dev/c4leb?theme=dark&font=baloo&cache=0&width="400")](https://leetcode.com/c4leb/) <img style="height: auto; width: auto;" class="img" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
