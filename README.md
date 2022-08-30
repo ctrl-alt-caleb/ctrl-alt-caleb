@@ -1,6 +1,7 @@
 
 
- &nbsp;&nbsp;&nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=ctrl-alt-caleb&label=Visitors&color=lightgrey)
+ &nbsp;&nbsp;&nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=ctrl-alt-caleb&label=Visitors&color=lightgrey) 
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&style=flat)
 
 
 <div class='container'align = 'center'>
