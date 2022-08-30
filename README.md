@@ -15,11 +15,11 @@
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-alt-caleb&theme=blue-green&langs_count=8&layout=compact" />
 </div>
 <br>
-<div class='container'align='center>
+<div class='container'align='center'>
 &nbsp;&nbsp;&nbsp;[![LeetCode Stats](https://leetcode.card.workers.dev/c4leb?theme=dark&font=baloo&cache=0&width="400")](https://leetcode.com/c4leb/)
 </div>
 
-<div class='countainer'align='center'>
+<div class='container'align='center'>
  <a href="https://linkedin.com/in/calebhebert">
  <img class="img" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat"
       </a>
