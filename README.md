@@ -3,9 +3,9 @@
  &nbsp;&nbsp;&nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=ctrl-alt-caleb&label=Visitors&color=lightgrey) 
  
  <div class='container'align='left'>
- <img class="img" src="https://komarev.com/ghpvc/?username=ctrl-alt-caleb&label=Visitors&color=lightgrey"/>
+ &nbsp;&nbsp;&nbsp;&nbsp;<img class="img" src="https://komarev.com/ghpvc/?username=ctrl-alt-caleb&label=Visitors&color=lightgrey"/>
  <a href="https://linkedin.com/in/calebhebert">
- <img class="img" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat"/>
+ &nbsp;&nbsp;&nbsp;&nbsp;<img class="img" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat"/>
       </a>
  </div><br<br>
             
