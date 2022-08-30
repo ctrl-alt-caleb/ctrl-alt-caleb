@@ -1,7 +1,7 @@
 
-<p align="center"> 
+
  ![](https://komarev.com/ghpvc/?username=ctrl-alt-caleb&label=PROFILE+VIEWS)
-</p>
+
 
 <div class='container'align = 'center'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=ctrl-alt-caleb&show_icons=true&theme=blue-green"/>
