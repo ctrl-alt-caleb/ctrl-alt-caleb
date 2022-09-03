@@ -2,7 +2,7 @@
  <div class='container'align='left'>
  &nbsp;&nbsp;&nbsp;&nbsp;<img class="img" src="https://komarev.com/ghpvc/?username=ctrl-alt-caleb&label=Visitors&color=blue"/>
  <a href="https://linkedin.com/in/calebhebert">
- &nbsp;<img class="img" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat"/>
+ &nbsp;&nbsp;<img class="img" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat"/>
       </a>
  </div>
             
