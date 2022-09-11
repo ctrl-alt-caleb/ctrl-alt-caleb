@@ -22,7 +22,6 @@
 
                               
  <div class='container'align='center'>
-  :computer: <br>
   <img class="img" src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=flat"/>
   <img class="img" src ="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&style=flat"/><br>
   <img class="img" src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&style=flat"/>
