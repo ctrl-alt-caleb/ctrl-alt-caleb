@@ -15,9 +15,9 @@
 </div>
 <br>
 
-<div class='container'align='center'>
+<!--- <div class='container'align='center'>
  <img class="img" src="https://leetcard.jacoblin.cool/c4leb/?ext=heatmap&theme=dark"/>
- </div><br>
+ </div><br> -->
  
 
                               
